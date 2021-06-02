@@ -31,7 +31,7 @@ I'm [osu! player](https://osu.ppy.sh/users/9809910).
 
 * Python
 * Java
-* JS (Typescript)
+* JS (+Typescript)
 * etc.
 
 ## SF (Sanshin_SF / Firo_SF)
