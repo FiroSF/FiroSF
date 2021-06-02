@@ -36,7 +36,5 @@ I'm [osu! player](https://osu.ppy.sh/users/9809910).
 
 ## SF (Sanshin_SF / Firo_SF)
 
-[![텍스트](http://cfile24.uf.tistory.com/image/2444873B57E257821FA2AE)](https://unity3d.com/kr)
-[![S](https://cdn.discordapp.com/attachments/328866312480882689/601854690249932800/unknown.png "Sanshin_SF")](https://github.com/Sanshin-SF)
-[![F](https://cdn.discordapp.com/attachments/328866312480882689/601854704330342464/unknown.png "Firo_SF")](https://github.com/FiroSF)
+[![S](https://cdn.discordapp.com/attachments/328866312480882689/601854690249932800/unknown.png "Sanshin_SF")](https://github.com/Sanshin-SF)[![F](https://cdn.discordapp.com/attachments/328866312480882689/601854704330342464/unknown.png "Firo_SF")](https://github.com/FiroSF)
 
