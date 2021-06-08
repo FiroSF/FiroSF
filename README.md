@@ -1,5 +1,7 @@
 # ![Firo banner](./img/movingLogo24.apng) Firo_SF / 피로\_SF
 
+## <center>무엇이든 최선을 다하자</center>
+
 <!--
 **FiroSF/FiroSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
