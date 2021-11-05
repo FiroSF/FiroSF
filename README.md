@@ -50,7 +50,6 @@ I'm [osu! player](https://osu.ppy.sh/users/9809910).
   - frameworks / etc.
     - React
     - Django
-    - Node.js
 
 ## ⚡SF (Sanshin_SF / Firo_SF)
 
