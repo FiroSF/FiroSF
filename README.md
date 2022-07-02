@@ -24,9 +24,9 @@ Welcome to my page!\
 KR : 피로 /pʰiɾo/\
 EN : Firo /firo/
 
-## ✨Who am I?
+## Who am I?
 
-I'm a Korean high school student who likes programming.\
+I'm a student who likes programming.\
 I'm [osu! player](https://osu.ppy.sh/users/9809910).
 
 ### Languages?
@@ -35,7 +35,7 @@ I'm [osu! player](https://osu.ppy.sh/users/9809910).
 
 ### wtwt your programming language
 
-- mainly use
+- mainly use but not perfect
   - language
     - Python
     - Java
