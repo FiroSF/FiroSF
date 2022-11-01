@@ -36,20 +36,13 @@ I'm [osu! player](https://osu.ppy.sh/users/9809910).
 ### wtwt your programming language
 
 - mainly use but not perfect
-  - language
-    - Python
-    - Java
-    - JS (+Typescript)
-  - frameworks / etc.
-    - :(
+  - Python
+  - Java
+  - JS (+Typescript)
 - can use but not very well
-  - language
-    - Go
-    - C#
-    - C/C++
-  - frameworks / etc.
-    - React
-    - Django
+  - Go
+  - C#
+  - C/C++
 
 ## ⚡SF (Sanshin_SF / Firo_SF)
 
