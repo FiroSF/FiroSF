@@ -31,10 +31,6 @@ I'm [osu! player](https://osu.ppy.sh/users/9809910).
 
 ### Languages?
 
-**K O R E A N .**
-
-### wtwt your programming language
-
 - mainly use but not perfect
   - Python
   - Java
