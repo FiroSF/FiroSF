@@ -2,8 +2,7 @@
 
 ## <center>무엇이든 최선을 다하자</center>
 
-## <center>|&nbsp;[<img src="https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png"  width="24"> Twitch](https://www.twitch.tv/firo_sf)&nbsp;|&nbsp;[<img src="https://github.githubassets.com/favicons/favicon-dark.png"  width="24"> Github](https://github.com/FiroSF)&nbsp;|&nbsp;[<img src="https://static.solved.ac/misc/boj-icon.svg"  width="24"> BaekjoonOJ]([https://github.com/FiroSF](https://www.acmicpc.net/user/cmgjol010))&nbsp;|</center>
-
+## <center>|&nbsp;[<img src="https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png"  width="24"> Twitch](https://www.twitch.tv/firo_sf)&nbsp;|&nbsp;[<img src="https://github.githubassets.com/favicons/favicon-dark.png"  width="24"> Github](https://github.com/FiroSF)&nbsp;|&nbsp;[<img src="https://static.solved.ac/misc/boj-icon.svg"  width="24"> BaekjoonOJ](https://www.acmicpc.net/user/cmgjol010)&nbsp;|</center>
 
 <!--
 **FiroSF/FiroSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
