@@ -42,6 +42,11 @@ I'm [osu! player](https://osu.ppy.sh/users/9809910).
   - C#
   - C/C++
 
-## ⚡SF (Sanshin_SF / Firo_SF)
+## Problem solving
 
-[![S](https://cdn.discordapp.com/attachments/328866312480882689/601854690249932800/unknown.png "Sanshin_SF")](https://github.com/Sanshin-SF)[![F](https://cdn.discordapp.com/attachments/328866312480882689/601854704330342464/unknown.png "Firo_SF")](https://github.com/FiroSF)
+[![CodeForces Profile](https://cf.leed.at?id=Firo_SF)](https://codeforces.com/profile/Firo_SF)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmgjol010)](https://solved.ac/cmgjol010)
+[![Daily solved.ac stats](http://mazandi.herokuapp.com/api?handle=cmgjol010&theme=dark)](https://solved.ac/profile/cmgjol010)
+## ⚡SF (Sanshin_SF / Firo_SF)
+[![S](./img/Sa@0.33x.png "Sanshin_SF")](https://github.com/Sanshin-SF)[![F](./img/F@0.33x.png "Firo_SF")](https://github.com/FiroSF)
