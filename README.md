@@ -49,4 +49,5 @@ I'm [osu! player](https://osu.ppy.sh/users/9809910).
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmgjol010)](https://solved.ac/cmgjol010)
 [![Daily solved.ac stats](http://mazandi.herokuapp.com/api?handle=cmgjol010&theme=dark)](https://solved.ac/profile/cmgjol010)
 ## ⚡SF (Sanshin_SF / Firo_SF)
-[![S](./img/Sa@0.33x.png "Sanshin_SF")](https://github.com/Sanshin-SF)[![F](./img/F@0.33x.png "Firo_SF")](https://github.com/FiroSF)
+
+[<img src="./img/Sa@0.33x.png" width="240" height="270"/>](https://github.com/Sanshin-SF)[<img src="./img/F@0.33x.png" width="240" height="270"/>](https://github.com/FiroSF)
